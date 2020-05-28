@@ -12,7 +12,7 @@ void setup()
     pinMode(l2, OUTPUT);
     pinMode(r1, OUTPUT);
     pinMode(r2, OUTPUT);
-    pinMode( horn,OUTPUT);
+    pinMode(horn,OUTPUT);
     pinMode(led,OUTPUT);
 }
 
